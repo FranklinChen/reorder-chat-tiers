@@ -1,0 +1,26 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CHI Alex Target_Child, MOT Mother Mother, OPE Camera_Operator Camera_Operator, ENV Environment Environment, TOY Toy Toy
+@ID:	eng|Alex|CHI|1;4.28|male|||Target_Child|||
+@ID:	eng|Alex|MOT|25;||||Mother|||
+@ID:	eng|Alex|OPE|25;||||Camera_Operator|||
+@ID:	eng|Alex|ENV|25;||||Environment|||
+@ID:	eng|Alex|TOY|25;||||Toy|||
+@Media:	ale01, video
+@Comment:	matt denio
+@Comment:	Language of Caregivers Mother Southeastern Massachusetts , Father Southeastern Massachusetts , Grandmother Southeastern Massachusetts
+@Date:	02-MAY-2002
+*CHI:	‹Mommy [?]› .
+%mor:	n:prop|Mommy .
+%gra:	1|0|INCROOT
+	2|1|PUNCT
+%pho:	ˈɑmɪ
+%mod:	ˈmɑmiː
+*CHI:	‹Mommy [?]› .
+%mor:	n:prop|Mommy .
+%pho:	ˈɑmɪ
+%mod:	ˈmɑmiː
+%gra:	1|0|INCROOTTT
+	2|1|PUNCTTT
+@End

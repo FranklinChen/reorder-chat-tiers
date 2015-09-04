@@ -1,2 +1,11 @@
 # reorder-chat-tiers
-Reorder CHAT tiers so that gra/grt immediately follow mor/trn
+
+[![Build Status](https://travis-ci.org/TalkBank/reorder-chat-tiers.png)](https://travis-ci.org/TalkBank/reorder-chat-tiers)
+
+Perl script to reorder CHAT tiers so that `%gra`/`%grt` immediately follow `%mor`/`%trn`.
+
+Usage:
+
+```console
+$ reorder-chat-tiers.pl test.cha > test-result.cha
+```
